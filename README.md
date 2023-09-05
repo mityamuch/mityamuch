@@ -61,6 +61,7 @@ I am a c# Developer and student of MAI institute <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
