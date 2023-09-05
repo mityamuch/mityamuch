@@ -23,6 +23,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+
+I am a c# Developer and student of MAI institute <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and desktop windows applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I am training on [![Linkedin Badge](https://img.shields.io/badge/-LEETCODE-yellow?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/mityamuch/) and read tech articles such as "Clean Code" by Robert Martin.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **mityamuch/mityamuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
